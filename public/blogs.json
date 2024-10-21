@@ -5,7 +5,7 @@
         "title": "The Journey of AI",
         "author_img": "https://png.pngtree.com/element_our/png/20181214/mustache-man-icon-png_269197.jpg",
         "posted_date": "2023-10-01",
-        "reading_time": "5 min",
+        "reading_time": 5,
         "hashtags": ["#AI", "#Technology", "#Innovation"]
     },
     {
@@ -14,7 +14,7 @@
         "title": "Exploring the Universe",
         "author_img": "https://png.pngtree.com/element_our/png/20181214/mustache-man-icon-png_269197.jpg",
         "posted_date": "2023-10-02",
-        "reading_time": "7 min",
+        "reading_time": 7,
         "hashtags": ["#Space", "#Science", "#Exploration"]
     },
     {
@@ -23,7 +23,7 @@
         "title": "Culinary Delights",
         "author_img": "https://png.pngtree.com/element_our/png/20181214/mustache-man-icon-png_269197.jpg",
         "posted_date": "2023-10-03",
-        "reading_time": "10 min",
+        "reading_time": 10,
         "hashtags": ["#Food", "#Cooking", "#Recipes"]
     },
     {
@@ -32,7 +32,7 @@
         "title": "The Art of Photography",
         "author_img": "https://png.pngtree.com/element_our/png/20181214/mustache-man-icon-png_269197.jpg",
         "posted_date": "2023-10-04",
-        "reading_time": "8 min",
+        "reading_time": 8,
         "hashtags": ["#Photography", "#Art", "#Creativity"]
     },
     {
@@ -41,7 +41,7 @@
         "title": "Understanding Quantum Physics",
         "author_img": "https://png.pngtree.com/element_our/png/20181214/mustache-man-icon-png_269197.jpg",
         "posted_date": "2023-10-05",
-        "reading_time": "12 min",
+        "reading_time": 10,
         "hashtags": ["#Physics", "#Quantum", "#Education"]
     }
 ]
