@@ -13,7 +13,7 @@ const Blogs = ({handleaddToBookamarks, handleMarkReaded}) => {
       .then((data) => setBlogs(data));
   }, []);
   return <div className="md:w-2/3">
-        <h1 className="text-3xl">Blogs: 
+        <h1 className="text-3xl p-5">Blogs: 
         {blogs.length}</h1>
 
         {

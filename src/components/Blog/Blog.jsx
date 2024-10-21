@@ -1,7 +1,7 @@
 
 import { FaBookmark } from "react-icons/fa";
 
-const Blog = ({blog, handleaddToBookamarks, handleMarkReaded}) => {
+const Blog = ({id,blog, handleaddToBookamarks, handleMarkReaded}) => {
     const {title, cover, reading_time, author_img, posted_date, hashtags} = blog;
     console.log(blog);
   return (
