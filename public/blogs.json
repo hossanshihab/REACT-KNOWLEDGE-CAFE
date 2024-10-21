@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/QknVxP8/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "The Journey of AI",
+        "author_img": "https://images.unsplash.com/photo-1517436075-8fbc8b9e4b4b",
+        "posted_date": "2023-10-01",
+        "reading_time": "5 min",
+        "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/QknVxP8/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "Exploring the Universe",
+        "author_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "posted_date": "2023-10-02",
+        "reading_time": "7 min",
+        "hashtags": ["#Space", "#Science", "#Exploration"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/QknVxP8/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "Culinary Delights",
+        "author_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "posted_date": "2023-10-03",
+        "reading_time": "10 min",
+        "hashtags": ["#Food", "#Cooking", "#Recipes"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/QknVxP8/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "The Art of Photography",
+        "author_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "posted_date": "2023-10-04",
+        "reading_time": "8 min",
+        "hashtags": ["#Photography", "#Art", "#Creativity"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/QknVxP8/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "Understanding Quantum Physics",
+        "author_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "posted_date": "2023-10-05",
+        "reading_time": "12 min",
+        "hashtags": ["#Physics", "#Quantum", "#Education"]
+    }
+]
